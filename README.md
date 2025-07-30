@@ -54,4 +54,3 @@ In Python, data types specify the type of value a variable holds. Here are the *
 
 ---
 
-Would you like code examples for any of these?
