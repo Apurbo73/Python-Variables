@@ -1,4 +1,4 @@
-﻿# Python Variables
+### Python Variables
 
 In Python, data types specify the type of value a variable holds. Here are the **main built-in data types**, grouped by category:
 
